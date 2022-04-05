@@ -1,0 +1,17 @@
+body {
+    background-color: #E9ECEF;
+}
+
+.box-sizing {
+    box-sizing: border-box;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+img {
+    width:21rem;
+    height: 18rem;
+}
+
